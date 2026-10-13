@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-bg text-ink font-body antialiased;
+    background-image: radial-gradient(60rem 40rem at 70% -10%, rgba(99, 102, 241, 0.14), transparent 60%);
+    background-attachment: fixed;
+  }
+  ::selection {
+    @apply bg-brand text-white;
+  }
+  textarea {
+    @apply font-body;
+  }
+}
+
+.scroll-slim::-webkit-scrollbar {
+  width: 6px;
+}
+.scroll-slim::-webkit-scrollbar-thumb {
+  background: #2b3a5e;
+  border-radius: 99px;
+}
