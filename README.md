@@ -8,7 +8,7 @@
 
 Paste your **résumé** and a **job description** — MatchPoint's AI scores how well you fit (0–100), shows the keywords you already match, flags the ones you're **missing**, and rewrites your bullet points to beat the ATS.
 
-### 🔗 [**View Live Demo →**](https://ai-resume-analyzer-ax.vercel.app)
+### 🔗 [**View Live Demo →**](https://ai-resume-analyzer-ivory-ten.vercel.app)
 
 > Click **"Try an example"** on the live site to see a full analysis instantly.
 
